@@ -1,7 +1,6 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm A.K.M. Nafiz Ibn Nasim.</h1>
 <h3 align="center">𝗖𝗼𝗱𝗲 𝗶𝘀 𝗺𝘆 𝗰𝗮𝗻𝘃𝗮𝘀; 𝗮𝗹𝗴𝗼𝗿𝗶𝘁𝗵𝗺𝘀 𝗮𝗿𝗲 𝗺𝘆 𝗯𝗿𝘂𝘀𝗵. 𝗪𝗲𝗹𝗰𝗼𝗺𝗲 𝘁𝗼 𝗺𝘆 𝗴𝗮𝗹𝗹𝗲𝗿𝘆.</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<img align="right" alt="Coding" width="400" src="[[https://cdn.dribbble.com/users/116207...](https://iconscout.com/lottie-animation/programmer-4375641)](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=404nafiz&label=Profile%20views&color=0e75b6&style=flat" alt="404nafiz" /> </p>
 
