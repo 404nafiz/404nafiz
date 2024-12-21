@@ -23,3 +23,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=404nafiz&show_icons=true&locale=en" alt="404nafiz" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404nafiz&" alt="404nafiz" /></p>
+
+<p align="center">
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
+</p>
